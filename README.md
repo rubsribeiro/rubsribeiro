@@ -5,6 +5,7 @@
  - 🎮 Playstation and Xbox
  - ⚽ I play soccer
  
+ ##
  <div align="center">
   <a href="https://github.com/rubsribeiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubsribeiro&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
@@ -39,5 +40,6 @@
 
 </div>
  
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/rubsribeiro/count.svg" /></p>
  
  ![snake gif](https://github.com/rubsribeiro/rubsribeiro/blob/output/github-contribution-grid-snake.svg)
