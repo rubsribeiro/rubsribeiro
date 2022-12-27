@@ -38,8 +38,6 @@
  
 </div>
 
-  
- 
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/rubsribeiro/count.svg" /></p>
+ ##
  
  ![snake gif](https://github.com/rubsribeiro/rubsribeiro/blob/output/github-contribution-grid-snake.svg)
