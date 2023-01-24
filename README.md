@@ -1,6 +1,6 @@
 ## Hi! I'm Rúbia Ribeiro 😄
 
- - 💻 Developer Front End and Back End
+ - 💻 Developer Front End
  - 🥰 Pronouns: She/Her
  - 🎮 Playstation and Xbox
  - ⚽ I play soccer
