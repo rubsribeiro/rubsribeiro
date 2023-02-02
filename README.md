@@ -8,6 +8,11 @@
  
  ##
  <div align="center">
+  <img src="https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1671211139Prancheta_3.png?utm_campaign=alura_latam_-_challenge_email_projeto_1_br&utm_medium=email&utm_source=RD+Station">
+ 
+ 
+ ##
+ <div align="center">
   <a href="https://github.com/rubsribeiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubsribeiro&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubsribeiro&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
