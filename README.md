@@ -7,7 +7,7 @@
  - ⚽ I play soccer
  
  ##
- <div align="center" alt="Badge-Alura">
+ 
  <div style="display: inline_block"><br>
   <img align="center" height="250em" width="250em" src="https://user-images.githubusercontent.com/110606629/216392833-f4864b5a-0fb5-4909-8de3-7ad73f1a032a.png">
  <div align="center" alt="Badge-Alura">
