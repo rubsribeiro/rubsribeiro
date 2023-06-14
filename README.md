@@ -1,7 +1,7 @@
 ## Hi! I'm Rúbia Ribeiro 😄
 
  - 🎓 Engineering Graduate
- - 💻 Developer Front End
+ - 💻 Front End Developer
  - 🥰 Pronouns: She/Her
  - 🎮 Playstation and Xbox
  - ⚽ I play soccer
